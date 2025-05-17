@@ -56,5 +56,5 @@ An Android application built with **Jetpack Compose** that fetches movie data us
 👤 Author
 Premm Chand
 
-🔗 GitHub:> 
+🔗 [GitHub](https://github.com/PremmChand)
 
