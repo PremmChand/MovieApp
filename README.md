@@ -1,4 +1,4 @@
-App Name: 
+App Name: MovieApp
 
 # 🎬 Jetpack Compose Movie Browser App
 
@@ -51,7 +51,7 @@ An Android application built with **Jetpack Compose** that fetches movie data us
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/movie-browser-compose.git
+   git clone https://github.com/PremmChand/MovieApp.git
 
 👤 Author
 Premm Chand
